@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         // Setup
         setupView()
-
+        print("Application did finish launching")
         return true
     }
 
